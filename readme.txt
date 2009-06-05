@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== NewPosts ===
 Contributors: chabliuc
 Donate link: http://ibean.org
 Tags: new, posts, image, cookie, visitor, first, time, display
