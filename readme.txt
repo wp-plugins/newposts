@@ -4,7 +4,7 @@ Donate link: http://ibean.org
 Tags: new, posts, image, cookie, visitor, first, time, display
 Requires at least: 2.7.1
 Tested up to: 2.7.1
-Stable tag: 1.1
+Stable tag: 1.2
 
 This plugin enables your visitors to quickly spot new posts by displaying a "new" icon next to the post's title
 
