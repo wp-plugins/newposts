@@ -4,7 +4,7 @@ Plugin Name: NewPosts
 Plugin URI: http://ibean.org/projects/wp-newposts
 Description: This plugin checks some cookie on the visitor's pc (which has the last visit date set), so it can determine whether an entry is new for a user. Use <code>&lt;?php newposts_display() ?&gt;</code> right before/after the post's title.
 Author: Cristi Habliuc
-Version: 1.2
+Version: 1.3
 Author URI: http://ibean.org
 */
 
